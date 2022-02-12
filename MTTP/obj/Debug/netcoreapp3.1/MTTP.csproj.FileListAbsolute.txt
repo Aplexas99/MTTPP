@@ -1,0 +1,4 @@
+C:\Users\Korisnik\source\repos\MTTP\MTTP\obj\Debug\netcoreapp3.1\MTTP.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\MTTP\MTTP\obj\Debug\netcoreapp3.1\MTTP.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\MTTP\MTTP\obj\Debug\netcoreapp3.1\MTTP.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\MTTP\MTTP\obj\Debug\netcoreapp3.1\MTTP.csproj.CoreCompileInputs.cache
